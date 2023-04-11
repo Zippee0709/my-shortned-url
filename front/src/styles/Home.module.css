@@ -1,0 +1,19 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 6rem;
+  gap: 2rem;
+  min-height: 100vh;
+}
+
+.body {
+  display: flex;
+  flex-direction: column;
+}
+
+.body .form {
+  display: flex;
+  gap: 1rem;
+}
+
